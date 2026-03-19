@@ -4,7 +4,6 @@ A Python + Pygame implementation of the classic Frogger arcade game, developed a
 
 > 📄 This project is described in the paper:  
 > *"Teaching School Students Python Programming and Embedded Systems using Frogger Game on Raspberry Pi 5"*  
-> — Sasmitha S, Kowshik P L, Mohan S, Sangeeth S  
 > Department of AI & Data Science, Amrita Vishwa Vidyapeetham, Coimbatore
 
 ---
@@ -54,7 +53,7 @@ frogger_game/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/frogger-rpi5.git
+git clone https://github.com/sasmxtha/frogger.git
 cd frogger-rpi5
 
 # 2. Install Pygame
@@ -140,12 +139,5 @@ GPIO.output(LED_PIN, GPIO.LOW)
 - M. Prensky, "Digital Game-Based Learning," *Computers in Entertainment*, 2003.
 
 ---
-
-## 👨‍💻 Authors
-
-- Sasmitha S (CB.AI.U4AID24051)
-- Kowshik P L (CB.AI.U4AID24036)
-- Mohan S (CB.AI.U4AID24032)
-- Sangeeth S (CB.AI.U4AID24050)
 
 *Amrita Vishwa Vidyapeetham, Coimbatore — Dept. of AI & Data Science*
